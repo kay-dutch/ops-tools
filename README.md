@@ -4,7 +4,7 @@ DevOps tools written in Python
 2. [add-tags.py](#add-tagspy)
 3. [clone.py](#clonepy)
 4. [instances-backup.py](#instances-backuppy)
-5. [make_lan_python.py] (#make-lan-python)
+5. [make_lan_python.py](#make-lan-python)
 6. [fix-trusted-gpg.py](#fix-trusted-gpgpy)
 7. [rotate.py](#rotatepy)
 8. [start-stop.py](#start-stoppy)
